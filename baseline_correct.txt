@@ -1,0 +1,2 @@
+TestContract:testAdd() (gas: 10147)
+TestContract:testSub() (gas: 10168)

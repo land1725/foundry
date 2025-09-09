@@ -1,1 +1,2 @@
-TestContract:testBar() (gas: 401)
+TestContract:testAdd() (gas: 9968)
+TestContract:testSub() (gas: 10168)
